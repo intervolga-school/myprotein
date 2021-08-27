@@ -1,0 +1,134 @@
+body {
+    margin: 0;
+}
+
+.nav li {
+    list-style-type: none;
+}
+
+
+.lang-navbar {
+    background-color: #f2f2f2;
+}
+
+.lang-navbar a {
+    color: black;
+}
+
+.goods-navbar {
+    background-color: darkcyan;
+}
+
+.goods-navbar a {
+    color: white;
+}
+
+.offers-navbar {
+    background-color: #f2f2f2;
+}
+
+.offers-navbar a {
+    color: black;
+}
+.search-navbar {
+    background-color: white;
+}
+.sale-navbar {
+    background-color: #f2f2f2;
+}
+
+.sale-navbar a {
+    color: red;
+}
+
+.carousel-indicators {
+    bottom: auto;
+}
+
+.preview {
+    margin-bottom: 10px;
+}
+.preview:last-child {
+    margin-bottom: 0;
+}
+
+.preview:hover {
+    border: 3px solid lightblue;
+}
+
+
+.feature {
+    background-color: lightgray;
+    font-weight: bold;
+    border-radius: 25px;
+    padding: 3px;
+}
+
+.upper-line {
+    border-top: 1px solid darkgrey;
+}
+
+.both-line {
+    border-top: 1px solid darkgrey;
+    border-bottom: 1px solid darkgrey;
+}
+
+.lower-footer li {
+    list-style-type: none;
+}
+.lower-footer ul {
+    padding: 0;
+}
+.lower-footer a {
+    color: white;
+}
+
+.rating, .rating a {
+    color: darkcyan;
+}
+.lower-footer, .upper-footer, .copy{
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 25px;
+}
+
+.styled-col1, .styled-col2, .styled-col3, .styled-col4, .styled-col5 {
+    background-color: darkcyan;
+}
+
+.styled-col5 {
+    width: 50%;
+}
+.styled-col4 {
+    width: 20%;
+}
+.styled-col3 {
+    width: 15%;
+}
+.styled-col2 {
+    width: 3%;
+}
+.styled-col1 {
+    width: 5%;
+}
+
+.lined {
+    border-top: 2px solid darkgrey;
+    border-bottom: 2px solid darkgrey;
+    margin: 20px 0;
+}
+
+.comment {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid darkgrey;
+}
+
+.upper-footer {
+    background-color: #4d4f53;
+    color: white;
+}
+.lower-footer {
+    background-color: #777a7d;
+    color: white;
+}
